@@ -3,7 +3,7 @@
     "id": 1,
     "num": "001",
     "name": "Bulbasaur",
-    "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+    "img": "https://rankedboost.com/wp-content/plugins/ice/pokemon-go/Bulbasaur-Pokemon-Go.png",
     "type": [
       "Grass",
       "Poison"
@@ -34,7 +34,7 @@
     "id": 2,
     "num": "002",
     "name": "Ivysaur",
-    "img": "http://www.serebii.net/pokemongo/pokemon/002.png",
+    "img": "https://rankedboost.com/wp-content/plugins/ice/pokemon-go/Ivysaur-Pokemon-Go.png",
     "type": [
       "Grass",
       "Poison"
@@ -69,7 +69,7 @@
     "id": 3,
     "num": "003",
     "name": "Venusaur",
-    "img": "http://www.serebii.net/pokemongo/pokemon/003.png",
+    "img": "https://rankedboost.com/wp-content/plugins/ice/pokemon-go/Venusaur-Pokemon-Go.png",
     "type": [
       "Grass",
       "Poison"
