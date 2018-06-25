@@ -465,8 +465,8 @@
     "name": "Pidgey",
     "img": "https://rankedboost.com/wp-content/plugins/ice/pokemon-go/Pidgey-Pokemon-Go.png",
     "type": [
-      "Normal",
-      "Flying"
+      "Flying",
+      "Normal"
     ],
     "height": "0.30 m",
     "weight": "1.8 kg",
@@ -497,8 +497,8 @@
     "name": "Pidgeotto",
     "img": "https://rankedboost.com/wp-content/plugins/ice/pokemon-go/Pidgeotto-Pokemon-Go.png",
     "type": [
-      "Normal",
-      "Flying"
+      "Flying",
+      "Normal"
     ],
     "height": "1.09 m",
     "weight": "30.0 kg",
@@ -527,8 +527,8 @@
     "name": "Pidgeot",
     "img": "https://rankedboost.com/wp-content/plugins/ice/pokemon-go/Pidgeot-Pokemon-Go.png",
     "type": [
-      "Normal",
-      "Flying"
+      "Flying",
+      "Normal"
     ],
     "height": "1.50 m",
     "weight": "39.5 kg",
@@ -605,8 +605,8 @@
     "name": "Spearow",
     "img": "https://rankedboost.com/wp-content/plugins/ice/pokemon-go/Spearow-Pokemon-Go.png",
     "type": [
-      "Normal",
-      "Flying"
+      "Flying",
+      "Normal"
     ],
     "height": "0.30 m",
     "weight": "2.0 kg",
@@ -634,8 +634,8 @@
     "name": "Fearow",
     "img": "https://rankedboost.com/wp-content/plugins/ice/pokemon-go/Fearow-Pokemon-Go.png",
     "type": [
-      "Normal",
-      "Flying"
+      "Flying",
+      "Normal"
     ],
     "height": "1.19 m",
     "weight": "38.0 kg",
