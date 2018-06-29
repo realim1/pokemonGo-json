@@ -806,7 +806,7 @@
   }, {
     "id": 29,
     "num": "029",
-    "name": "Nidoran ♀ (Female)",
+    "name": "Nidoran♀",
     "img": "https://rankedboost.com/wp-content/plugins/ice/pokemon-go/NidoranF-Pokemon-Go.png",
     "type": [
       "Poison"
@@ -899,7 +899,7 @@
   }, {
     "id": 32,
     "num": "032",
-    "name": "Nidoran ♂ (Male)",
+    "name": "Nidoran♂",
     "img": "https://rankedboost.com/wp-content/plugins/ice/pokemon-go/NidoranM-Pokemon-Go.png",
     "type": [
       "Poison"
